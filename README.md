@@ -1,8 +1,10 @@
 <h1 align="center" style="color: white; font-size: 36px; font-weight: bold;">Hi 👋, I'm Preet Gusain</h1>
 <h3 align="center" style="color: #ddd; font-size: 24px; font-weight: 300;">👨‍💻 MERN Stack | DSA | API Integrations | Software Innovator From India</h3>
 
-<img src="https://cdn.dribbble.com/userupload/16335869/file/original-8410ddd85cabfc3943ecfbc1c9909ffd.mp4" align="center" alt="coding" width="800" />
-
+<video width="800" controls>
+  <source src="https://cdn.dribbble.com/userupload/16335869/file/original-8410ddd85cabfc3943ecfbc1c9909ffd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetcoder12&label=Profile%20views&color=0e75b6&style=flat" alt="preetcoder12" style="filter: brightness(0.8);" /> </p>
 
 <div style="background-color: black; color: white; padding: 20px; border-radius: 8px; margin: 20px 0;">
