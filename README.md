@@ -1,6 +1,6 @@
 <h1 align="center" style="color: white; font-size: 36px; font-weight: bold;">Hi 👋, I'm Preet Gusain</h1>
 <h3 align="center" style="color: #ddd; font-size: 24px; font-weight: 300;">👨‍💻 MERN Stack | DSA | API Integrations | Software Innovator From India</h3>
-<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width=400 height=400 align="center" />
+<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width=400 height=300 align="center" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetcoder12&label=Profile%20views&color=0e75b6&style=flat" alt="preetcoder12" style="filter: brightness(0.8);" /> </p>
 
 <div style="background-color: black; color: white; padding: 20px; border-radius: 8px; margin: 20px 0;">
