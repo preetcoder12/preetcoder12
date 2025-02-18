@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetcoder12&label=Profile%20views&color=0e75b6&style=flat" alt="preetcoder12" style="filter: brightness(0.8);" /> </p>
 
-<div style="background-color: #111; color: white; padding: 20px; border-radius: 8px; margin: 20px 0;">
+<div style="background-color: black; color: white; padding: 20px; border-radius: 8px; margin: 20px 0;">
     <p style="font-size: 16px;">🌱 I’m currently learning <strong>Node.js & Advanced DSA</strong></p>
     <p style="font-size: 16px;">👨‍💻 All of my projects are available at <a href="https://preet-pesonal-portfolio.vercel.app/" style="color: #1e90ff;">My Portfolio</a></p>
     <p style="font-size: 16px;">📫 How to reach me: <a href="mailto:Preetgusain84@gmail.com" style="color: #1e90ff;">Preetgusain84@gmail.com</a></p>
