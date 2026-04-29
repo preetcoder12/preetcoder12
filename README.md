@@ -15,7 +15,7 @@
 
 # Hi there, I'm **Preet Gusain** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A0;API+Integrations+Expert+%F0%9F%94%8C;Software+Innovator+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A0;API+Integrations+Expert+%F0%9F%94%8C;Software+Innovator+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
 <div align="center">
