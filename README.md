@@ -18,11 +18,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A0;API+Integrations+Expert+%F0%9F%94%8C;Software+Innovator+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=22c55e)](https://preet-pesonal-portfolio.vercel.app/)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=22c55e)](https://linkedin.com/in/preet-gusain](https://www.linkedin.com/in/preet-gusain-986b022a5/))
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=22c55e)](https://instagram.com/preet_gusain200_)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=22c55e)](mailto:Preetgusain84@gmail.com)
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=22c55e)](https://preet-pesonal-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=22c55e)](https://www.linkedin.com/in/preet-gusain-986b022a5/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge\&logo=instagram\&logoColor=22c55e)](https://instagram.com/preet_gusain200_)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=22c55e)](mailto:Preetgusain84@gmail.com)
+
+</div>
 
 </div>
 
