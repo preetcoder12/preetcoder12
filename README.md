@@ -133,7 +133,7 @@ const preet = {
 |----------|------|
 | 🌐 Portfolio | [preet-pesonal-portfolio.vercel.app](https://preet-pesonal-portfolio.vercel.app/) |
 | 💼 LinkedIn | [linkedin.com/in/preet-gusain](https://linkedin.com/in/preet-gusain) |
-| 📸 Instagram | [@preet_gusain200_](https://instagram.com/preet_gusain200_) |
+| 📸 Instagram | [@preet_gusain200_](https://instagram.com/notpreetgusain) |
 | 📧 Email | [Preetgusain84@gmail.com](mailto:Preetgusain84@gmail.com) |
 
 </div>
